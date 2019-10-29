@@ -19,4 +19,4 @@ Please read the [contribution guidelines](https://github.com/opencv/opencv/wiki/
 * Clean up "oops" commits before submitting;
 * Follow the [coding style guide](https://github.com/opencv/opencv/wiki/Coding_Style_Guide).
 
-Thank You
+##### Thank You
